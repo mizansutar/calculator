@@ -1,0 +1,9 @@
+C:\Users\aim comp\Desktop\mizan net\windows_forming\accuratecalculotor\accuratecalculotor\bin\Debug\accuratecalculotor.exe.config
+C:\Users\aim comp\Desktop\mizan net\windows_forming\accuratecalculotor\accuratecalculotor\bin\Debug\accuratecalculotor.exe
+C:\Users\aim comp\Desktop\mizan net\windows_forming\accuratecalculotor\accuratecalculotor\bin\Debug\accuratecalculotor.pdb
+C:\Users\aim comp\Desktop\mizan net\windows_forming\accuratecalculotor\accuratecalculotor\obj\Debug\accuratecalculotor.csprojResolveAssemblyReference.cache
+C:\Users\aim comp\Desktop\mizan net\windows_forming\accuratecalculotor\accuratecalculotor\obj\Debug\accuratecalculotor.Properties.Resources.resources
+C:\Users\aim comp\Desktop\mizan net\windows_forming\accuratecalculotor\accuratecalculotor\obj\Debug\accuratecalculotor.csproj.GenerateResource.Cache
+C:\Users\aim comp\Desktop\mizan net\windows_forming\accuratecalculotor\accuratecalculotor\obj\Debug\accuratecalculotor.exe
+C:\Users\aim comp\Desktop\mizan net\windows_forming\accuratecalculotor\accuratecalculotor\obj\Debug\accuratecalculotor.pdb
+C:\Users\aim comp\Desktop\mizan net\windows_forming\accuratecalculotor\accuratecalculotor\obj\Debug\accuratecalculotor.calculator.resources
